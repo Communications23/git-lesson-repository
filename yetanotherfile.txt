@@ -1,0 +1,4 @@
+another string
+another string
+I think this is a string
+yet another string
